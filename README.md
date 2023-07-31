@@ -1,2 +1,0 @@
-# DragonCraft
-Bot Minecraft
